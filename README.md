@@ -1,2 +1,2 @@
-labs2
-bahasa pemrograman python
+#labs2
+#pemrograman python
